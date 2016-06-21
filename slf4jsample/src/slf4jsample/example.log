@@ -1,0 +1,10 @@
+FATAL Thread-1 slf4jsample.slf4j1 - Fatal Message 
+FATAL Thread-0 slf4jsample.slf4j1 - Fatal Message 
+DEBUG Thread-1 slf4jsample.slf4j1 - Debug Message!
+DEBUG Thread-0 slf4jsample.slf4j1 - Debug Message!
+INFO Thread-1 slf4jsample.slf4j1 - Info Message!
+INFO Thread-0 slf4jsample.slf4j1 - Info Message!
+WARN Thread-1 slf4jsample.slf4j1 - Warn Message!
+WARN Thread-0 slf4jsample.slf4j1 - Warn Message!
+ERROR Thread-1 slf4jsample.slf4j1 - Error Message!
+ERROR Thread-0 slf4jsample.slf4j1 - Error Message!
